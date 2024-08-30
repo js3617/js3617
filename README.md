@@ -1,23 +1,17 @@
 <div align=center> 
-  	<h3> What Can I do </h3>
+  	### :computer: Develop Tech
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white&amp;"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white&amp;"/>
+
+### :art: Design Tech
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
+
 </div>
 <br>
-
 <div align=center>
-	<h3> Learning </h3>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
- 	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
 </div>
 <br>
 <div align=center>
