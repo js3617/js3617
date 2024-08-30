@@ -1,5 +1,5 @@
 <div align=center> 
-  	### :computer: Develop Tech
+  	:computer: Develop Tech
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white&amp;"/>
