@@ -34,5 +34,8 @@
 	  <img src="https://github-readme-stats.vercel.app/api?username=js3617&show_icons=true" />
 	</picture>
  </div>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js3617&layout=compact" />
+ <br/>
+ 
+<div align=center>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js3617&langs_count=8" />
+</div>
