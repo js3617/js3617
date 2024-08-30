@@ -11,10 +11,6 @@
 </div>
 <br>
 <div align=center>
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
-</div>
-<br>
-<div align=center>
 	<picture>
 	  <source
 	    srcset="https://github-readme-stats.vercel.app/api?username=js3617&show_icons=true&theme=dark"
